@@ -38,8 +38,6 @@ Through this project, I developed expertise in:
 
 📊 [View my interactive Tableau dashboard showcasing key insights and trends.](https://public.tableau.com/app/profile/dounia.el.youssoufi/viz/ClimateChangeCropYield-AGlobalAnalysis1990-2024/ClimateChangeImpactonAgriculture)
 
-## Conclusion
-
 This project not only demonstrates my analytical and predictive modelling skills but also showcases my ability to address real-world issues related to sustainability and climate change through data-driven insights.
 
 ---
